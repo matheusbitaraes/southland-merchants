@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/southland-merchants/static/css/main.4f92a863.chunk.css",
-    "main.js": "/southland-merchants/static/js/main.59053c6d.chunk.js",
-    "main.js.map": "/southland-merchants/static/js/main.59053c6d.chunk.js.map",
+    "main.js": "/southland-merchants/static/js/main.b9e28e3e.chunk.js",
+    "main.js.map": "/southland-merchants/static/js/main.b9e28e3e.chunk.js.map",
     "runtime-main.js": "/southland-merchants/static/js/runtime-main.a4a36413.js",
     "runtime-main.js.map": "/southland-merchants/static/js/runtime-main.a4a36413.js.map",
     "static/js/2.cb65fb59.chunk.js": "/southland-merchants/static/js/2.cb65fb59.chunk.js",
     "static/js/2.cb65fb59.chunk.js.map": "/southland-merchants/static/js/2.cb65fb59.chunk.js.map",
     "index.html": "/southland-merchants/index.html",
-    "precache-manifest.0a6da094b1caf9affbe4d47ca842e3ba.js": "/southland-merchants/precache-manifest.0a6da094b1caf9affbe4d47ca842e3ba.js",
+    "precache-manifest.fce7dc9c1ef5fad10cd9c9b4f78a528d.js": "/southland-merchants/precache-manifest.fce7dc9c1ef5fad10cd9c9b4f78a528d.js",
     "service-worker.js": "/southland-merchants/service-worker.js",
     "static/css/main.4f92a863.chunk.css.map": "/southland-merchants/static/css/main.4f92a863.chunk.css.map",
     "static/js/2.cb65fb59.chunk.js.LICENSE.txt": "/southland-merchants/static/js/2.cb65fb59.chunk.js.LICENSE.txt",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.a4a36413.js",
     "static/js/2.cb65fb59.chunk.js",
     "static/css/main.4f92a863.chunk.css",
-    "static/js/main.59053c6d.chunk.js"
+    "static/js/main.b9e28e3e.chunk.js"
   ]
 }

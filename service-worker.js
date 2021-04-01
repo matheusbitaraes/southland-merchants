@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/southland-merchants/precache-manifest.0a6da094b1caf9affbe4d47ca842e3ba.js"
+  "/southland-merchants/precache-manifest.fce7dc9c1ef5fad10cd9c9b4f78a528d.js"
 );
 
 self.addEventListener('message', (event) => {

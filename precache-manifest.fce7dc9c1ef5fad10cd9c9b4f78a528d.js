@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "045ebd8d60d1a1cba32860aca8c95a39",
+    "revision": "b491e04899bbec21d428ea069e8ba951",
     "url": "/southland-merchants/index.html"
   },
   {
-    "revision": "4b8e90eabd79be8bd63c",
+    "revision": "1a31c54c344f99e8422c",
     "url": "/southland-merchants/static/css/main.4f92a863.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/southland-merchants/static/js/2.cb65fb59.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b8e90eabd79be8bd63c",
-    "url": "/southland-merchants/static/js/main.59053c6d.chunk.js"
+    "revision": "1a31c54c344f99e8422c",
+    "url": "/southland-merchants/static/js/main.b9e28e3e.chunk.js"
   },
   {
     "revision": "106d147996ef4eed31a3",
