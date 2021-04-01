@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/southland-merchants/static/css/main.4f92a863.chunk.css",
+    "main.js": "/southland-merchants/static/js/main.59053c6d.chunk.js",
+    "main.js.map": "/southland-merchants/static/js/main.59053c6d.chunk.js.map",
+    "runtime-main.js": "/southland-merchants/static/js/runtime-main.a4a36413.js",
+    "runtime-main.js.map": "/southland-merchants/static/js/runtime-main.a4a36413.js.map",
+    "static/js/2.cb65fb59.chunk.js": "/southland-merchants/static/js/2.cb65fb59.chunk.js",
+    "static/js/2.cb65fb59.chunk.js.map": "/southland-merchants/static/js/2.cb65fb59.chunk.js.map",
+    "index.html": "/southland-merchants/index.html",
+    "precache-manifest.0a6da094b1caf9affbe4d47ca842e3ba.js": "/southland-merchants/precache-manifest.0a6da094b1caf9affbe4d47ca842e3ba.js",
+    "service-worker.js": "/southland-merchants/service-worker.js",
+    "static/css/main.4f92a863.chunk.css.map": "/southland-merchants/static/css/main.4f92a863.chunk.css.map",
+    "static/js/2.cb65fb59.chunk.js.LICENSE.txt": "/southland-merchants/static/js/2.cb65fb59.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/southland-merchants/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/southland-merchants/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/southland-merchants/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/southland-merchants/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/southland-merchants/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/southland-merchants/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/southland-merchants/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/southland-merchants/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/southland-merchants/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/southland-merchants/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/southland-merchants/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/southland-merchants/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4a36413.js",
+    "static/js/2.cb65fb59.chunk.js",
+    "static/css/main.4f92a863.chunk.css",
+    "static/js/main.59053c6d.chunk.js"
+  ]
+}
